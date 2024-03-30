@@ -13,6 +13,7 @@ public class App
         tester.printText("Готово");
         Tester.newTester("Владик","Бурдуков",1219);
         System.out.println( "Hello test branch!" );
+        
     }
 
 }
